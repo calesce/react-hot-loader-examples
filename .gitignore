@@ -1,0 +1,8 @@
+node_modules/
+dist/
+temp/
+.idea/
+*.env
+npm-debug.log
+.DS_Store
+bundle.js
